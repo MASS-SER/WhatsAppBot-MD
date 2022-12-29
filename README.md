@@ -143,7 +143,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-MD
+git clone https://github.com/MASS-SER/WhatsAppBot-MD
 cd WhatsAppBot-MD
 rm -rf session.alfa.json
 npm install
