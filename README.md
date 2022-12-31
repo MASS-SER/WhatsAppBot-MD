@@ -266,7 +266,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 | [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
 |----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [MASS-SER𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
